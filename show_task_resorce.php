@@ -18,7 +18,7 @@ $Conn = mysqli_connect("localhost", "root", "", "desiging_application");
             <th>Duration</th>
             <th>Start Date</th>
             <th>Finish Date</th>
-            <th>Resource</th>
+            <th>Resource name</th>
 
         </tr>
         <?php

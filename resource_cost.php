@@ -18,8 +18,8 @@ $Conn = mysqli_connect("localhost", "root", "", "desiging_application");
             <th>Duration</th>
             <th>Start Date</th>
             <th>Finish Date</th>
-            <th>Resource</th>
-            <th>Cost</th>
+            <th>Resource name</th>
+            <th>Total cost</th>
         </tr>
         <?php
         $Query = "SELECT * FROM design_task_interface";

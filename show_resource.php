@@ -14,7 +14,7 @@ $Conn = mysqli_connect("localhost", "root", "", "desiging_application");
     <table width="100%" align="center" cellpadding="0" cellspacing="0" border="1">
         <tr>
             <th>Resource Name</th>
-            <th>Type</th>
+            <th>Type (List)</th>
             <th>Material</th>
             <th>Max no of resources</th>
             <th>St.Rate</th>
