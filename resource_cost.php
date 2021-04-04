@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css"> 
 <?php
 $Conn = mysqli_connect("localhost", "root", "", "desiging_application");
 

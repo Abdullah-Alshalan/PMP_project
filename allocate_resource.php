@@ -6,6 +6,7 @@ if (isset($_POST["btnSubmit"])) {
     mysqli_query($Conn, $Query);
 }
 ?>
+<link rel="stylesheet" href="styles.css"> 
 <!DOCTYPE html>
 <html>
 

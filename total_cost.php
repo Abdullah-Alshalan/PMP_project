@@ -2,6 +2,7 @@
 $Conn = mysqli_connect("localhost", "root", "", "desiging_application");
 
 ?>
+<link rel="stylesheet" href="styles.css"> 
 <!DOCTYPE html>
 <html>
 
